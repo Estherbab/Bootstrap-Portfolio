@@ -1,0 +1,6 @@
+/* Navigation menu */
+.navbar-nav {
+    margin-left: auto;
+    justify-content: right !important;
+}
+
