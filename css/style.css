@@ -4,3 +4,16 @@
     justify-content: right !important;
 }
 
+.cardContainer {
+    margin-bottom: 15px;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.box-sizing: border-box;
+
+div {
+    display: block;
+}
